@@ -1,8 +1,7 @@
-<h1 align="center">
-  <img src="https://speakpython.codes/img/speak-python-banner.png" alt="Marton Lederer" />
-</h1>
+<img src="https://speakpython.codes/img/speak-python-banner.png" alt="Speak Python Banner" />
 
-## 👋 Hey! geeks 
+## 👋 Hey! geeks
+
 We are from Speak Python
 
 🧭 Join our 20 day [Python Programming bootcamp](https://speakpython.codes) 
