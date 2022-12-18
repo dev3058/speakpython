@@ -9,14 +9,10 @@ We are from Speak Python
 
 👥 Our team lead - [@dev3058](https://github.com/dev3058)
 
-## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+## Skills we enriched
+- :snake: Python Fundamentals
+- :snake: Advance Python 
+- :spider_web: Web Development using Python
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
+- [support@speakpython.code](mailto:support@speakpython.code)
