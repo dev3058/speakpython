@@ -4,13 +4,13 @@
 
 We are from Speak Python
 
-🧭 Join our 20 day [Python Programming bootcamp](https://speakpython.codes) 
+🧭 Check our famous [Python Live Courses](https://speakpython.codes) 
 
 👥 Our team lead - [@dev3058](https://github.com/dev3058)
 
 ## Skills we enriched
-- :snake: Python Fundamentals
-- :snake: Advance Python 
+- :snake: Python Fundamentals for beginners
+- :snake: Kick Start with Python  
 - :spider_web: Web Development using Python
 
 ## Contact
