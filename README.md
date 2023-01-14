@@ -4,7 +4,7 @@
 
 We are from Speak Python
 
-🧭 Check our famous [Python Live Courses](https://speakpython.codes) 
+🧭 Check our famous [Live Courses](https://speakpython.codes) 
 
 👥 Our team lead - [@dev3058](https://github.com/dev3058)
 
