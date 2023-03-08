@@ -1,17 +1,8 @@
-<img src="https://speakpython.codes/img/speak-python-banner.png" alt="Speak Python Banner" />
+## [speakpython.codes](http://speakpython.codes/)
 
-## 👋 Hey! geeks
+Welcome to our Python tutorial blog website hosted on GitHub!
+- Our website is dedicated to providing high-quality tutorials on various aspects of __Python programming language__. Our team of experienced Python developers and educators have created this website to help you learn and improve your Python skills.
 
-We are from Speak Python
+- Our website is __open-source__, which means that all of our code and content is available for anyone to use and contribute to. We believe that sharing knowledge and collaborating with others is essential to the growth of the Python community.
 
-🧭 Check our famous [Live Courses](https://speakpython.codes) 
-
-👥 Our team lead - [@dev3058](https://github.com/dev3058)
-
-## Skills we enriched
-- :snake: Python Fundamentals for beginners
-- :snake: Kick Start with Python  
-- :spider_web: Web Development using Python
-
-## Contact
-- [support@speakpython.code](mailto:support@speakpython.code)
+- So, if you're looking to improve your Python skills or want to contribute to the Python community, check out our website and join us on this exciting journey!
