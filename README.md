@@ -9,5 +9,5 @@ Welcome to our Python tutorial blog website hosted on GitHub!
 
 <hr />
 
-[Subscribe to our blog](https://speakpython.codes/python-training.html#maillist) for expert tips and code snippets! 
+__[Subscribe to our blog](https://speakpython.codes/python-training.html#maillist) for expert tips and code snippets!__
 
